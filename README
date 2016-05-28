@@ -1,0 +1,5 @@
+This file is for Git Auto Completion function
+
+1. cp git-completion.bash to ~/.git-completion.bash
+2. Add "source ~/.git-completion.bash" to ~/.bashrc
+3. Source ~/.bashrc
